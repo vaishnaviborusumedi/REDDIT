@@ -261,4 +261,4 @@ frontend/index.html
 ## 👩‍💻 Author
 
 Vaishnavi Reddy
-AI/ML Developer
+
