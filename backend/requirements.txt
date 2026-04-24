@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx              # API calls to RapidAPI
+scikit-learn       # KMeans clustering
+mlxtend            # Apriori / FP-Growth
+pandas
+numpy
+python-dotenv
+sentence-transformers  # Text embeddings for clustering
